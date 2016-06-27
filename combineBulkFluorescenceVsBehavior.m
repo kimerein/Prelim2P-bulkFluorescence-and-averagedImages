@@ -1,7 +1,7 @@
 function combineBulkFluorescenceVsBehavior(fileDir)
 
 % Set variables
-trialDuration=15.616;
+trialDuration=15.616; % Fixed trial duration
 baseSub=1; % whether to baseline subtract pre-opto stimulus baseline
 norm=0; % whether to normalize to peak fluorescence on given trial
 
